@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Hi there! I'm Gui. I'm a Full Stack Software Engineer from Lisbon, Portugal 🌞, currently working [@lavanda-uk](https://github.com/lavanda-uk).
+Hi there! I'm Gui. I'm a Full Stack Typescript Engineer from Lisbon, Portugal 🌞, currently working [@lavanda-uk](https://github.com/lavanda-uk).
 
 Besides being interested about programming and tech in general, I'm a home cook 👨‍🍳 I love cooking and baking and I considered changing careers more times than I'd like to admit.
 And since I can't avoid being a nerd on the subjects that interest me the most, I'm also an aviation geek, specialty coffee enthusiast and sourddough afficionado.
 
-In any case, here's a little about what I've worked in the past:
+In any case, here's a little about what I've done in the past:
 
 - 🎨 Developed and maintained several frontend web apps, from Angular to Next.js and React
-- 🕸️ Worked on GraphQL APIs using Apollo Server and Nexusjs
+- 🕸️ Worked on GraphQL APIs using Apollo Server and Nexusjs, as well as REST APIs using Express, Koa and other libraries
 - 📦 Designed and maintained databases using different technologies, ranging from SQL, no-SQL and graph databases
 - 👨‍👩‍👦‍👦 Led teams, conducted code reviews and coached junior engineers
 
