@@ -14,6 +14,8 @@ In any case, here's a little about what I've worked in the past:
 
 If you have any questions, send me a message!
 
+PS: Check out my [dotfiles](https://github.com/guivazcabral/dotfiles) if that's your thing.
+
 
 <a href="https://www.linkedin.com/in/guilhermevazcabral"><img align="left" src="https://user-images.githubusercontent.com/5154363/229148190-dc6f9520-5aa3-4317-8485-a5badca2ab85.png" alt="Guilherme Cabral | LinkedIn" width="32px"/></a>
 
