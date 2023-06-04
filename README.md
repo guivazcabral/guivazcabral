@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! I'm Gui. I'm a Full Stack Typescript Engineer from Lisbon, Portugal 🌞, currently working [@lavanda-uk](https://github.com/lavanda-uk).
+Hi there! I'm Gui. I'm a Full Stack Typescript Engineer from Lisbon, Portugal 🌞, currently working at Datacamp.
 
 Besides being interested about programming and tech in general, I'm a home cook 👨‍🍳 I love cooking and baking and I considered changing careers more times than I'd like to admit.
 And since I can't avoid being a nerd on the subjects that interest me the most, I'm also an aviation geek, specialty coffee enthusiast and sourdough afficionado.
